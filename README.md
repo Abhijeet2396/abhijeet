@@ -1,8 +1,8 @@
-![abhijeet](https://raw.githubusercontent.com/Abhijeet2396/abhijeet/master/assets/images/Banner.gif)
+![abhijeet](https://raw.githubusercontent.com/Abhijeet2396/Abhijeet2396/master/assets/images/Banner.gif)
 
-[1.1]: https://github.com/Abhijeet2396/abhijeet/blob/master/assets/icons/linkedin_c.png "linkedin"
-[2.1]: https://github.com/Abhijeet2396/abhijeet/blob/master/assets/icons/email.png "mail"
-[3.1]: https://github.com/Abhijeet2396/abhijeet/blob/master/assets/icons/medium39.png "medium"
+[1.1]: https://github.com/Abhijeet2396/Abhijeet2396/blob/master/assets/icons/linkedin_c.png "linkedin"
+[2.1]: https://github.com/Abhijeet2396/Abhijeet2396/blob/master/assets/icons/email.png "mail"
+[3.1]: https://github.com/Abhijeet2396/Abhijeet2396/blob/master/assets/icons/medium39.png "medium"
 [1]: https://www.linkedin.com/in/abhijeet-solanki
 [2]: mailto:abhijeet.solanki@outlook.com
 [3]: https://medium.com/@kritikseth
