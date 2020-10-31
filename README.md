@@ -1,4 +1,4 @@
-![abhijeet](https://raw.githubusercontent.com/Abhijeet2396/Abhijeet2396/master/assets/images/Banner.gif)
+![abhijeet](https://github.com/Abhijeet2396/Abhijeet2396/blob/main/assets/images/Banner.gif)
 
 [1.1]: https://github.com/Abhijeet2396/Abhijeet2396/blob/master/assets/icons/linkedin_c.png "linkedin"
 [2.1]: https://github.com/Abhijeet2396/Abhijeet2396/blob/master/assets/icons/email.png "mail"
