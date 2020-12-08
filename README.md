@@ -41,6 +41,8 @@ Connect with me:
 
 - [What Will Your Plate Look Like in 2050?](https://medium.com/professionally-handicapped/what-will-your-plate-look-like-in-2050-f612a64a98fd?source=friends_link&sk=2fece92dad33a2e1e71dc7e729a77c79)
 
+- [How to Start with Data Science in 2020?](https://abhijeet-solanki.medium.com/how-to-start-with-data-science-in-2020-460906bbc4b9?sk=a65738437106a20ed4703db777df844e)
+
 ## Publication & Poster
 
 - ["Protecting Electronic Health Records in Transit and at Rest](https://ieeexplore.ieee.org/abstract/document/9183319?casa_token=394wZstRSqEAAAAA:gZ0G3obHwAK9lgZHH-0nDxv5JeuTKL1DLI4AtUoUaN6so7TidVqSyaaSpQJ7IJPxfM-aV1IQNw)
