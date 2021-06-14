@@ -32,6 +32,7 @@ Connect with me:
 - TensorFlow
 
 ## Experience
+> Software Engineer - [**Protech Solutions**](https://protechsolutions.com)
 
 > Software Engineer - [**MidTn.Tech**](https://midtn.tech)
 
