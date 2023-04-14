@@ -32,6 +32,8 @@ Connect with me:
 - TensorFlow
 
 ## Experience
+> Senior Software Engineer - [**Deloitte**](https://www2.deloitte.com/us/en.html)
+
 > Software Engineer - [**Protech Solutions**](https://protechsolutions.com)
 
 > Software Engineer - [**MidTn.Tech**](https://midtn.tech)
