@@ -7,7 +7,7 @@
 [2]: mailto:abhijeet.solanki@outlook.com
 [3]: https://medium.com/@kritikseth
 
-Hi, my name is **Abhijeet Solanki** and I am a **Artificial Intellgience Enthusiast** based in Nashville, Tennessee. I am currently working as Software Engineer in a stratup company MidTn.Tech. I have completed my Bachelor in Computer Engineering from Tenessee Technological University in the year 2020.
+Hi, my name is **Abhijeet Solanki** and I am an **Artificial Intelligence Enthusiast** based in Nashville, Tennessee. I am currently working as Software Engineer in a stratup company MidTn.Tech. I have completed my Bachelor in Computer Engineering from Tenessee Technological University in the year 2020.
 
 My portfolio is a representation of all that I have learned and accomplished in my bachelor. The articles and projects you will see in this portfolio show how my knowledge and experience have evolved over time.
 
