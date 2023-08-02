@@ -7,11 +7,11 @@
 [2]: mailto:abhijeet.solanki@outlook.com
 [3]: https://medium.com/@kritikseth
 
-Hi, my name is **Abhijeet Solanki** and I am an **Artificial Intelligence Enthusiast** based in Nashville, Tennessee. I am currently working as Software Engineer in a stratup company MidTn.Tech. I have completed my Bachelor in Computer Engineering from Tenessee Technological University in the year 2020.
+Hi, my name is **Abhijeet Solanki**, and I am an **Artificial Intelligence Enthusiast** based in Nashville, Tennessee. I am currently working as Software Engineer in a Deloitte. I completed my Bachelor in Computer Engineering from Tenessee Technological University in the year 2020.
 
-My portfolio is a representation of all that I have learned and accomplished in my bachelor. The articles and projects you will see in this portfolio show how my knowledge and experience have evolved over time.
+My portfolio is a representation of all that I have learned and accomplished in my bachelor's. The articles and projects you will see in this portfolio show how my knowledge and experience have evolved over time.
 
-I am trying to built my competency in Artificial Intelligence and Machine Learning.
+I am trying to build my competency in Artificial Intelligence and Machine Learning.
 
 Connect with me:
 
@@ -32,7 +32,7 @@ Connect with me:
 - TensorFlow
 
 ## Experience
-> Senior Software Engineer - [**Deloitte**](https://www2.deloitte.com/us/en.html)
+> Software Engineer - [**Deloitte**](https://www2.deloitte.com/us/en.html)
 
 > Software Engineer - [**Protech Solutions**](https://protechsolutions.com)
 
